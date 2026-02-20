@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wfs:FeatureCollection xmlns:wfs="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:GIS="http://www.tekla.com/schemas/GIS" xmlns="http://www.tekla.com/schemas/GIS" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.0.0/WFS-basic.xsd http://www.tekla.com/schemas/GIS https://kartat.espoo.fi/teklaogcweb/WFS.ashx?SERVICE=WFS&amp;VERSION=1.0.0&amp;REQUEST=DescribeFeatureType&amp;typeName=GIS:EcoCounter ">
+ <gml:boundedBy>
+  <gml:Box srsName="http://www.opengis.net/gml/srs/epsg.xml#3879">
+   <gml:coordinates>25481013.270,6670509.378 25491619.083,6678980.823</gml:coordinates>
+  </gml:Box>
+ </gml:boundedBy><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIJK>589746</GIS:EDVUOSIJK>
+    <GIS:EDVUOSIPP>295914</GIS:EDVUOSIPP>
+    <GIS:EILINENJK>1518</GIS:EILINENJK>
+    <GIS:EILINENPP>249</GIS:EILINENPP>
+    <GIS:KKJK>29945</GIS:KKJK>
+    <GIS:KKPP>4449</GIS:KKPP>
+    <GIS:name>Pohjantie, Länsituulensilta</GIS:name>
+    <GIS:VUOSIJK>79433</GIS:VUOSIJK>
+    <GIS:VUOSIPP>11604</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25488897.431 6673577.907</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIJK>302759</GIS:EDVUOSIJK>
+    <GIS:EDVUOSIPP>71097</GIS:EDVUOSIPP>
+    <GIS:EILINENJK>15747</GIS:EILINENJK>
+    <GIS:EILINENPP>21</GIS:EILINENPP>
+    <GIS:KKJK>531310</GIS:KKJK>
+    <GIS:KKPP>1008</GIS:KKPP>
+    <GIS:name>Olarinkatu</GIS:name>
+    <GIS:VUOSIJK>1009843</GIS:VUOSIJK>
+    <GIS:VUOSIPP>2692</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25485192.918 6673043.053</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIJK>480454</GIS:EDVUOSIJK>
+    <GIS:EDVUOSIPP>81454</GIS:EDVUOSIPP>
+    <GIS:EILINENJK>842</GIS:EILINENJK>
+    <GIS:EILINENPP>23</GIS:EILINENPP>
+    <GIS:KKJK>24528</GIS:KKJK>
+    <GIS:KKPP>460</GIS:KKPP>
+    <GIS:name>Espoonlahdenraitti</GIS:name>
+    <GIS:VUOSIJK>63886</GIS:VUOSIJK>
+    <GIS:VUOSIPP>1306</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25481013.270 6670509.378</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>57402</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>63</GIS:EILINENPP>
+    <GIS:KKPP>1194</GIS:KKPP>
+    <GIS:name>Suomenlahdentie</GIS:name>
+    <GIS:VUOSIPP>3074</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25484770.444 6671529.313</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>301767</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>176</GIS:EILINENPP>
+    <GIS:KKPP>3390</GIS:KKPP>
+    <GIS:name>Länsiväylä, Karhusaari</GIS:name>
+    <GIS:VUOSIPP>9567</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25490809.268 6672831.924</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>208309</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>190</GIS:EILINENPP>
+    <GIS:KKPP>3649</GIS:KKPP>
+    <GIS:name>Rantaradan varsi, Mäkkylä</GIS:name>
+    <GIS:VUOSIPP>10245</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25491619.083 6678980.823</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>207828</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>163</GIS:EILINENPP>
+    <GIS:KKPP>3527</GIS:KKPP>
+    <GIS:name>Kehä I, Laajalahti</GIS:name>
+    <GIS:VUOSIPP>10104</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25489226.129 6675811.023</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>249997</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>168</GIS:EILINENPP>
+    <GIS:KKPP>3044</GIS:KKPP>
+    <GIS:name>Gallen-Kallelan tie</GIS:name>
+    <GIS:VUOSIPP>8370</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25491241.779 6676929.299</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember><gml:featureMember>
+  <GIS:EcoCounter>
+    <GIS:EDVUOSIPP>155476</GIS:EDVUOSIPP>
+    <GIS:EILINENPP>95</GIS:EILINENPP>
+    <GIS:KKPP>2073</GIS:KKPP>
+    <GIS:name>Ylismäentie</GIS:name>
+    <GIS:VUOSIPP>5856</GIS:VUOSIPP>
+    <GIS:Geometry>
+      <gml:Point>
+        <gml:pos>25485948.794 6674316.947</gml:pos>
+      </gml:Point>
+    </GIS:Geometry>
+  </GIS:EcoCounter>
+</gml:featureMember></wfs:FeatureCollection>
