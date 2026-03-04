@@ -1,0 +1,5 @@
+mode_of_transportation,time,time_min,population_share
+bicycle,300,5.0,0.8022908977559954
+bicycle,600,10.0,0.9367763585123926
+bicycle,900,15.0,0.9792355023968258
+bicycle,1200,20.0,0.9903112761166887
